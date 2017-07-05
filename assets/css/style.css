@@ -6,17 +6,11 @@ URL Github: https://github.com/Akhdin
 
 /*CSS*/
 
-
-
 /**********header********/
-
 .header{
-
 	background-color: #EEE;
 	height : 300px;
-
 }
-
 .titre-site{
 	color : black;
 	font-size: 100px;
@@ -26,13 +20,9 @@ URL Github: https://github.com/Akhdin
 	text-align: center;
 }
 
-
 .menu{
 	height: 40px;
-
 }
-
-
 
 .nav-bar{
 	background-color: #000;
@@ -40,7 +30,6 @@ URL Github: https://github.com/Akhdin
 	width: 100px;
 	margin: 0 auto;
 	padding-top: 10px;
-
 }
 
 .nav-links-current{
@@ -50,7 +39,6 @@ URL Github: https://github.com/Akhdin
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 16px;
 	padding: 0px 10px;
-
 }
 
 .nav-links{
@@ -60,13 +48,11 @@ URL Github: https://github.com/Akhdin
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 16px;
 	padding: 0px 10px;	
-
 }
 
 .a:hover{
 	color:#FFF;
 }
-
 /************Fin du header*/
 
 /**********Body**********/
@@ -184,47 +170,38 @@ h4 a:hover {
 }
 
 
+/*fin du CSS*/
+
 /**********Fin du Body**********/
 
-
-
 /*********Footer**************/
-
 .footer{
 		width:100%;
 		height:500px;
 		background-color: #e8e8e8
-
 	}
-
 	.social-bar{
 		height:60px;
 	}
-
 	.icone-bar{
 		width: 100%;
 		margin-left: 15px;
-	}
 
-	.titre-site2{
+	}
+	.titre-site{
 		text-transform: uppercase;
 		text-align: center;
 		font-size: 130px;
-		display: flex;;
 	}
-
 
 	.droit{
 		text-align: center;
 		font-family: "Georgia";
 	}
 
-
 	.retour-haut{
 		text-transform: uppercase;
 		text-align: center;
 	}
-
-
 
 	/*********Fin du Footer*****/
